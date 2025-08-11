@@ -48,8 +48,8 @@ compte-a-rebours/
 
 "J'ai créé ce compteur pour pratiquer JavaScript et gérer les dates. C'est open-source alors n'hésitez pas à l'améliorer!"
 
+```
 
 <p align="center">
   💻🚀 <em>Développé par Kevin - Août 2025</em> 💻🚀
 </p>
-```
